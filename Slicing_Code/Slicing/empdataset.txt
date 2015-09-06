@@ -1,0 +1,19 @@
+userId,password,name,address,country,zip,email,salary,sex,language,about,status
+Aabheer,27trjjly,Aabheer,#1234 Saran St,Delhi,560032,Aabheer@gmail.com,15000,Male,en,Trainer,yes
+Aadarsh,ats3atgc,Aadarsh,#3796 Papal St,Kolkata,560033,Aadarsh@yahoo.com,10000,Male,en,Tester,yes
+Aabha,nab0pgef,Aabha,#679 Voci St,Hyderabad,560031,Aabha@gmail.com,30000,Female,en,Developer,yes
+Aabharana,g64qrzy8,Aabharana,#4589 Kamal St,Banglore,560032,Aabharana@yahoo.com,35000,Female,en,Developer,yes
+Balachandra,och5vjac,Balachandra,#398 Megsys St,Chennai,560034,Balachandra@yahoo.com,12000,Male,en,Tester,yes
+Balagopal,qot9iwh7,Balagopal,#3982 Joshua St,Pune,560031,Balagopal@yahoo.com,20000,Male,en,Trainer,yes
+Balagovind,u3mrmct3,Balagovind,#1625 Rana Pratap St,Mumbai,560035,Balagovind@gmail.com,25000,Male,en,Trainer,yes
+Balaji,h6xhhfa9,Balaji,#780 Granules St,Delhi,560036,Balaji@yahoo.com,14000,Male,en,Tester,yes
+Bani,wxqh8za4,Bani,#634 Narayan St,Kolkata,560035,Bani@gmail.com,40000,Female,en,Developer,yes
+Banmala,vzld0sh6,Banmala,#65-78 Giri St,Hyderabad,560041,Banmala@yahoo.com,80000,Female,en,Pr. Manager,yes
+Banni,fbs70mpr,Banni,#6-4 SDhar St,Banglore,560044,Banni@yahoo.com,50000,Female,en,Team Leader,yes
+Bansari,hlgb5j8d,Bansari,#36 Chandni Chowk,Delhi,560041,Bansari@gmail.com,65000,Female,en,HR Manager,yes
+Barkha,kq1uffoc,Barkha,#1232 Warsaw St,Pune,560043,Barkha@yahoo.com,70000,Female,en,HR Manager,yes
+Barsha,8ti7w5ra,Barsha,#876 Kars St,Mumbai,560042,Barsha@gmail.com,55000,Female,en,Team Leader,yes
+Balu,hlgb5j9d,Balu,#36 Chandni Chowk,Delhi,560045,Balu@gmail.com,85000,Male,en,Pr. Manager,yes
+Bhanu,hlgb5k6d,Bhanu,#36 Chandni Chowk,Delhi,560041,Bhanu@gmail.com,90000,Male,en,Pr. Manager,yes
+Bharath,hlgl5k6d,Bharath,#36 Chandni Chowk,Delhi,560045,Bharath@gmail.com,60000,Male,en,Team Leader,yes
+Bhavya,hlhp5k6d,Bharath,#36 Chandni Chowk,Delhi,560045,Bhavya@gmail.com,75000,Female,en,HR Manager,yes
